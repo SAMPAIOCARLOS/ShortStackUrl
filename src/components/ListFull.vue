@@ -68,9 +68,9 @@ export default defineComponent({
         width: 70%;
     }
 }
-@media(max-width: 320px) {
+/* @media(max-width: 320px) {
     #list_full {
         width: 100%;
     }
-}
+} */
 </style>

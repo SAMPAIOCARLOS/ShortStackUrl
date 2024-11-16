@@ -1,16 +1,19 @@
 <script lang="ts">
 import { defineComponent } from 'vue'
-import teste from './components/TheHeader.vue'
+import TheHeader from './components/TheHeader.vue'
+import TheMain from './components/TheMain.vue'
 
 export default defineComponent({
     name: 'App',
-    components: { teste }
+    components: { TheHeader, TheMain }
 })
 </script>
 
 <template>
   
-  <teste />
+  <TheHeader />
+
+  <TheMain />
 
 </template>
 

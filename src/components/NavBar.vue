@@ -99,6 +99,7 @@ nav {
     position: fixed;
     transform: translateY(-2px);
     z-index: 50;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.125);
 }
 
 #container_content_navBar {

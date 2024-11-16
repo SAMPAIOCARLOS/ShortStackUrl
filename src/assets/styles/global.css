@@ -9,7 +9,6 @@ body {
     width: 100vw;
     min-height: 100vh;
     border: 2px solid rgb(49, 50, 110);
-    background-color: aliceblue;
     overflow-x: hidden;
 }
 
